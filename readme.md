@@ -54,6 +54,7 @@ Products that integrate with Linear.
 - [Insomnia](https://insomnia.rest/) GraphQL client.
 - [GraphQL playground](https://github.com/graphql/graphql-playground) GraphQL client.
 - [Retool](https://retool.com/) Build internal tools, remarkably fast.
+- [Raycast](https://www.raycast.com/) Lets you control your tools with a few keystrokes. (Mac OS)
 
 ## Resources
 
