@@ -21,6 +21,7 @@ for teams on Linear
 - [LinearSync](https://linear-sync.com/) LinearSync sends GitHub issues to Linear. This lets open source maintainers better integrate community feedback into the Linear Method.
 - [Discord: Alerts](https://github.com/ezolla/linear-app-discord) Listener for Linear App new issue events connected to Discord.
 - [linear-discord-serverless](https://github.com/alii/linear-discord-serverless) ✨ Pre-hosted solution to get linear's events forwarded to Discord webhooks through Vercel serverless functions 🧑‍💻
+- [Linear.style](https://linear.style) A website to discover community-made Linear color themes
 
 ## Integrations
 
