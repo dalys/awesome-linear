@@ -40,7 +40,8 @@ Products that integrate with Linear.
 - [Marker.io](https://marker.io/linear-website-issue-tracker) Make it easy for your team and clients to report website feedback into Linear, without driving developers crazy.
 - [Bird eats bug](https://birdeatsbug.com/) Create bug reports that developers love. Automatically.
 - [Qualdesk](https://qualdesk.com/) Work with your Linear issues in a flexible, multiplayer whiteboard environment. Any changes are automatically updated in Linear.
-
+- [Highlight](https://www.highlight.run/) Collaborate fast with your team in resolving errors, UX pain points, and UI bugs.
+- 
 ### Official integrations
 
 - [Sentry](https://sentry.io/integrations/linear/) 
