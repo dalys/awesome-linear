@@ -27,21 +27,23 @@ for teams on Linear
 
 Products that integrate with Linear.
 
- - [Pipedream](https://pipedream.com/apps/linear-app) Integration Platform. Connect APIs and execute custom cloud functions.
- - [Slab](https://slab.com/integrations/linear/) Manage your engineering issues from within your knowledge base.
- - [Codestream](https://www.codestream.com/blog/codestream-10-3-view-and-create-linear-issues-in-your-ide) CodeStream supercharges development workflows by putting collaboration tools in your IDE.
- - [Incident.io](https://incident.io/) Create, manage and resolve incidents directly in Slack. Leave the admin and reporting to us.
- - [Jam.dev](https://jam.dev/) Collaboratively edit your website.
- - [Herald](https://www.heraldhq.com/) Customer Feedback Consolidation.
- - [Honeybadger.io](https://docs.honeybadger.io/integrations/#linear) Exception monitoring.
- - [Vanta](https://www.vanta.com/) Automated Security and Compliance.
+- [Pipedream](https://pipedream.com/apps/linear-app) Integration Platform. Connect APIs and execute custom cloud functions.
+- [Slab](https://slab.com/integrations/linear/) Manage your engineering issues from within your knowledge base.
+- [Codestream](https://www.codestream.com/blog/codestream-10-3-view-and-create-linear-issues-in-your-ide) CodeStream supercharges development workflows by putting collaboration tools in your IDE.
+- [Incident.io](https://incident.io/) Create, manage and resolve incidents directly in Slack. Leave the admin and reporting to us.
+- [Jam.dev](https://jam.dev/) Collaboratively edit your website.
+- [Herald](https://www.heraldhq.com/) Customer Feedback Consolidation.
+- [Honeybadger.io](https://docs.honeybadger.io/integrations/#linear) Exception monitoring.
+- [Vanta](https://www.vanta.com/) Automated Security and Compliance.
 - [UserVitals](https://www.uservitalshq.com/works-with/linear) Sync your engineering tasks and feedback management.
 - [Reclaim.ai](https://reclaim.ai/) Smart time blocking for your calendar.
 - [Marker.io](https://marker.io/linear-website-issue-tracker) Make it easy for your team and clients to report website feedback into Linear, without driving developers crazy.
 - [Bird eats bug](https://birdeatsbug.com/) Create bug reports that developers love. Automatically.
 - [Qualdesk](https://qualdesk.com/) Work with your Linear issues in a flexible, multiplayer whiteboard environment. Any changes are automatically updated in Linear.
+- [Rootly](https://rootly.io) Manage incidents directly from Slack. Focus on what you do best, putting out 🔥.
 - [Highlight](https://www.highlight.run/) Collaborate fast with your team in resolving errors, UX pain points, and UI bugs.
-- 
+ 
+
 ### Official integrations
 
 - [Sentry](https://sentry.io/integrations/linear/) 
