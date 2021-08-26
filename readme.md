@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="100" src="./assets/linear_logo.png" alt="logo of Linear">
+  <a href="https://linear.app" target="_blank"><img width="100" src="./assets/linear_logo.png" alt="logo of Linear"></a>
   <br>
   <br>
 </p>
