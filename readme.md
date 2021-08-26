@@ -27,6 +27,7 @@ for teams on Linear
 
 Products that integrate with Linear.
 
+- [Swarmia](https://www.swarmia.com/) Swarmia helps your team be more productive by providing insights and recommendations based on your Linear data.
 - [Pipedream](https://pipedream.com/apps/linear-app) Integration Platform. Connect APIs and execute custom cloud functions.
 - [Slab](https://slab.com/integrations/linear/) Manage your engineering issues from within your knowledge base.
 - [Codestream](https://www.codestream.com/blog/codestream-10-3-view-and-create-linear-issues-in-your-ide) CodeStream supercharges development workflows by putting collaboration tools in your IDE.
