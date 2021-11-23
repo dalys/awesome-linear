@@ -28,6 +28,7 @@ for teams on Linear
 
 Products that integrate with Linear.
 
+- [Centered](https://www.centered.app/) Centered helps you get your Linear tickets done more efficiently by silencing distractions and encouraging a mindful Flow state.
 - [Swarmia](https://www.swarmia.com/) Swarmia helps your team be more productive by providing insights and recommendations based on your Linear data.
 - [Pipedream](https://pipedream.com/apps/linear-app) Integration Platform. Connect APIs and execute custom cloud functions.
 - [Slab](https://slab.com/integrations/linear/) Manage your engineering issues from within your knowledge base.
