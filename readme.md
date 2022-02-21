@@ -15,14 +15,12 @@ A list of awesome Linear resources, add-ons, integrations, links, etc.
 
 Third-party add-ons to Linear to enhance Linear with more functionality.
 
-- [Linear Power-Ups Email](https://email.linearpowerups.com/) Two-way email integration. Run a service desk or recieve bug reports inside Linear.
 - [Nearline](https://www.nearline.io/) Simple analytics
 for teams on Linear
 - [LinearSync](https://linear-sync.com/) LinearSync sends GitHub issues to Linear. This lets open source maintainers better integrate community feedback into the Linear Method.
 - [Discord: Alerts](https://github.com/ezolla/linear-app-discord) Listener for Linear App new issue events connected to Discord.
 - [linear-discord-serverless](https://github.com/alii/linear-discord-serverless) ✨ Pre-hosted solution to get linear's events forwarded to Discord webhooks through Vercel serverless functions 🧑‍💻
 - [Linear.style](https://linear.style) A website to discover community-made Linear color themes
-- [Linear Power-Ups Sharing](https://project.linearpowerups.com/) Sharing project status with stackeholders without creating Linear account.
 
 ## Integrations
 
