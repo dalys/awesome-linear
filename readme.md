@@ -32,7 +32,7 @@ Products that integrate with Linear.
 - [Slab](https://slab.com/integrations/linear/) Manage your engineering issues from within your knowledge base.
 - [Codestream](https://www.codestream.com/blog/codestream-10-3-view-and-create-linear-issues-in-your-ide) CodeStream supercharges development workflows by putting collaboration tools in your IDE.
 - [Incident.io](https://incident.io/) Create, manage and resolve incidents directly in Slack. Leave the admin and reporting to us.
-- [Jam.dev](https://jam.dev/) Collaboratively edit your website.
+- [Jam](https://jam.dev/) Chrome extension for ultra-fast Linear ticket creation.
 - [Herald](https://www.heraldhq.com/) Customer Feedback Consolidation.
 - [Honeybadger.io](https://docs.honeybadger.io/integrations/#linear) Exception monitoring.
 - [Vanta](https://www.vanta.com/) Automated Security and Compliance.
