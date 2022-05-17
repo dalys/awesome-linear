@@ -42,6 +42,7 @@ Products that integrate with Linear.
 - [Bird eats bug](https://birdeatsbug.com/) Create bug reports that developers love. Automatically.
 - [Rootly](https://rootly.io) Manage incidents directly from Slack. Focus on what you do best, putting out 🔥.
 - [Highlight](https://www.highlight.run/) Collaborate fast with your team in resolving errors, UX pain points, and UI bugs.
+- [TestLodge](https://www.testlodge.com/test-case-tool-integrations/linear) Test management tool allowing you to automatically create and update issues in Linear as you execute your tests.
  
 
 ### Official integrations
