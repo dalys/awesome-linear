@@ -15,8 +15,6 @@ A list of awesome Linear resources, add-ons, integrations, links, etc.
 
 Third-party add-ons to Linear to enhance Linear with more functionality.
 
-- [Nearline](https://www.nearline.io/) Simple analytics
-for teams on Linear
 - [LinearSync](https://linear-sync.com/) LinearSync sends GitHub issues to Linear. This lets open source maintainers better integrate community feedback into the Linear Method.
 - [Discord: Alerts](https://github.com/ezolla/linear-app-discord) Listener for Linear App new issue events connected to Discord.
 - [linear-discord-serverless](https://github.com/alii/linear-discord-serverless) ✨ Pre-hosted solution to get linear's events forwarded to Discord webhooks through Vercel serverless functions 🧑‍💻
@@ -34,7 +32,6 @@ Products that integrate with Linear.
 - [Codestream](https://www.codestream.com/blog/codestream-10-3-view-and-create-linear-issues-in-your-ide) CodeStream supercharges development workflows by putting collaboration tools in your IDE.
 - [Incident.io](https://incident.io/) Create, manage and resolve incidents directly in Slack. Leave the admin and reporting to us.
 - [Jam](https://jam.dev/) Chrome extension for ultra-fast Linear ticket creation.
-- [Herald](https://www.heraldhq.com/) Customer Feedback Consolidation.
 - [Honeybadger.io](https://docs.honeybadger.io/integrations/#linear) Exception monitoring.
 - [Vanta](https://www.vanta.com/) Automated Security and Compliance.
 - [UserVitals](https://www.uservitalshq.com/works-with/linear) Sync your engineering tasks and feedback management.
