@@ -20,6 +20,7 @@ Third-party add-ons to Linear to enhance Linear with more functionality.
 - [linear-discord-serverless](https://github.com/alii/linear-discord-serverless) ✨ Pre-hosted solution to get linear's events forwarded to Discord webhooks through Vercel serverless functions 🧑‍💻
 - [Linear.style](https://linear.style) A website to discover community-made Linear color themes
 - [Compose AI](https://compose.ai?ref=linear) AI-powered autocompletion within Linear (browser version for now)
+- [linear-cli](https://github.com/phnx-labs/linear-cli) Single-file Python CLI for managing Linear issues from the shell or an AI coding agent. Zero dependencies.
 
 ## Integrations
 
