@@ -41,6 +41,7 @@ Products that integrate with Linear.
 - [Rootly](https://rootly.io) Manage incidents directly from Slack. Focus on what you do best, putting out 🔥.
 - [Highlight](https://www.highlight.run/) Collaborate fast with your team in resolving errors, UX pain points, and UI bugs.
 - [TestLodge](https://www.testlodge.com/test-case-tool-integrations/linear) Test management tool allowing you to automatically create and update issues in Linear as you execute your tests.
+- [DevIntern](https://devintern.com/) Turns Linear issues into self-reviewed pull requests using the coding agent of your choice (Claude Code, Codex, Cursor, OpenCode). The companion devpm tool creates well-specified, codebase-grounded Linear issues from rough prompts.
  
 
 ### Official integrations
