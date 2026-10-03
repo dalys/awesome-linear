@@ -43,6 +43,7 @@ Products that integrate with Linear.
 - [Highlight](https://www.highlight.run/) Collaborate fast with your team in resolving errors, UX pain points, and UI bugs.
 - [TestLodge](https://www.testlodge.com/test-case-tool-integrations/linear) Test management tool allowing you to automatically create and update issues in Linear as you execute your tests.
 - [DevIntern](https://devintern.com/) Turns Linear issues into self-reviewed pull requests using the coding agent of your choice (Claude Code, Codex, Cursor, OpenCode). The companion devpm tool creates well-specified, codebase-grounded Linear issues from rough prompts.
+- [Eodly](https://eodly.io/) Daily team check-ins in Slack, Telegram or Discord, compared read-only against Linear and GitHub activity.
  
 
 ### Official integrations
