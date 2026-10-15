@@ -44,6 +44,7 @@ Products that integrate with Linear.
 - [TestLodge](https://www.testlodge.com/test-case-tool-integrations/linear) Test management tool allowing you to automatically create and update issues in Linear as you execute your tests.
 - [DevIntern](https://devintern.com/) Turns Linear issues into self-reviewed pull requests using the coding agent of your choice (Claude Code, Codex, Cursor, OpenCode). The companion devpm tool creates well-specified, codebase-grounded Linear issues from rough prompts.
 - [Eodly](https://eodly.io/) Daily team check-ins in Slack, Telegram or Discord, compared read-only against Linear and GitHub activity.
+- [Front of Mind](https://keepfrontofmind.com/linear) Floating desktop timer for Mac and Windows that adds a Time tracked card with each person's total to Linear issues.
  
 
 ### Official integrations
