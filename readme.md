@@ -45,6 +45,7 @@ Products that integrate with Linear.
 - [DevIntern](https://devintern.com/) Turns Linear issues into self-reviewed pull requests using the coding agent of your choice (Claude Code, Codex, Cursor, OpenCode). The companion devpm tool creates well-specified, codebase-grounded Linear issues from rough prompts.
 - [Eodly](https://eodly.io/) Daily team check-ins in Slack, Telegram or Discord, compared read-only against Linear and GitHub activity.
 - [Front of Mind](https://keepfrontofmind.com/linear) Floating desktop timer for Mac and Windows that adds a Time tracked card with each person's total to Linear issues.
+- [Weave](https://weaveos.com) Engineering intelligence platform that measures code output, code quality, review and DORA metrics, and the adoption, impact and cost of AI coding tools. Integrates with Linear, Jira, GitHub, GitLab, Bitbucket and Slack, with a free Starter plan.
  
 
 ### Official integrations
